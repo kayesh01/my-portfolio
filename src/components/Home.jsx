@@ -6,7 +6,7 @@ import { Link } from "react-scroll";
 const Home = () => {
   return (
     <div
-      name="home"
+      id="home"
       className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800"
     >
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
@@ -37,7 +37,7 @@ const Home = () => {
             <button className="text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"><a target="_blank"
               rel="noreferrer"
               download={"Kayesh-resume.pdf"}
-              href="https://docs.google.com/document/d/1Ex6RF5XrcBKPpU315QBn0tXiqamqbX74T8ZOqGg--PQ/edit?usp=sharing">Download Resume</a><span className="group-hover:rotate-90 duration-300">
+              href="https://drive.google.com/file/d/1T9jKtqm83tgtXdh2Myfy_FcGeb04F23s/view?usp=sharing">Download Resume</a><span className="group-hover:rotate-90 duration-300">
                 <MdDownload size={20} className="ml-2" />
               </span></button>
           </div>
