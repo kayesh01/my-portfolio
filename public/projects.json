@@ -1,23 +1,35 @@
 [
     {
         "id": 1,
-        "src": "./img/phoneresale.png",
+        "src": "https://i.ibb.co/VjJbGP5/phoneresale.png",
         "title": "Sellmymobile.com",
         "link": "https://phone-resale-aa0a5.web.app/",
-        "client": "https://github.com/kayesh01/sellmymobile.com-client-side"
+        "client": "https://github.com/kayesh01/sellmymobile.com-client-side",
+        "server": "https://github.com/kayesh01/sellmymobile.com-server-side",
+        "details1": "Implement Firebase Login Authentication, JWT token, Responsive, React Router Dom, Context Api, React JS, TailwindCSS, Toaster, Model and reactForm Implementation, React Query.",
+        "details2": "Create Dashboard ,admin panel, user panel, Admin can see, All Users, All Buyers, All Sellers & can manage them.Seller to add a product and my product  & manage Product Features. Buyers can see their own bookings and they can purchase from there.",
+        "details3": "Node.js, Express.Js, MongoDB, Env, Vercel Deploy,Stripe Payment,(CRUD) Operation, get ,post."
     },
     {
         "id": 2,
-        "src": "./img/education.png",
+        "src": "https://i.ibb.co/YBcK2Zr/education.png",
         "title": "learn to earn",
         "link": "https://education-learning-5a12d.web.app/",
-        "client": "https://github.com/kayesh01/education-platform-client"
+        "client": "https://github.com/kayesh01/education-platform-client",
+        "server": "https://github.com/kayesh01/education-platform-server",
+        "details1": "Firebase Login/register Authentication, React Router Dom, Context api, React JS, TailwindCSS, Toaster,  modal and react Form implementation, React Query, React to pdf.",
+        "details2": "Responsive UI design & Form Validation, Loader for better  User Experience.",
+        "details3": "Node.js, Express.Js, MongoDB, Env, Vercel Deploy, get ,post operation."
     },
     {
         "id": 3,
-        "src": "./img/mykitchen.png",
+        "src": "https://i.ibb.co/bLQNKkp/mykitchen.png",
         "title": "my Kitchen",
         "link": "https://my-kitchen-56d8f.web.app/",
-        "client": "https://github.com/kayesh01/my-kitchen-client"
+        "client": "https://github.com/kayesh01/my-kitchen-client",
+        "server": "https://github.com/kayesh01/my-kitchen-server",
+        "details1": "Firebase Login/register Authentication. JWT token, React Router Dom, Context api, React JS, TailwindCSS, Toaster,  Modal, Navigate, React to PDF.",
+        "details2": "Any user can Add Service, Add review, Edit and update, delete review features, responsive UI design & Form Validation, Loader for better  User Experience. ",
+        "details3": "Node.js, Express.Js, MongoDB, Env, Vercel Deploy,(CRUD) Operation, get ,post."
     }
 ]
